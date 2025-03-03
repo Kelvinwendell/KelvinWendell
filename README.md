@@ -2,7 +2,6 @@
 
   **`Desenvolvedor`**
 
-- 🔭 I’m currently working on 
 - 🌱 Estou estudando JavaSricpt e Python
 - 📫 contata-me no meu e-mail: Kelvinwendell.barboza@gmail.com
 - 😄 Pronouns: ele/dele
