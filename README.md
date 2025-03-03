@@ -3,7 +3,7 @@
   **`Desenvolvedor`**
 
 - 🌱 Estou estudando JavaSricpt e Python
-- 📫 contata-me no meu e-mail: Kelvinwendell.barboza@gmail.com
+- 📫 Contate-me em meu e-mail: Kelvinwendell.barboza@gmail.com
 - 😄 Pronouns: ele/dele
 
  <a href="https://github.com/Kelvinwendell?tab=repositories&sort=stargazers">
