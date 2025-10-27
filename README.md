@@ -2,7 +2,7 @@
 
   **`Desenvolvedor`**
 
-- 🌱 Estou estudando JavaSricpt e Python
+- 🌱 Estou estudando Java e Python
 - 📫 Contate-me em meu e-mail: Kelvinwendell.barboza@gmail.com
 - 😄 Pronouns: ele/dele
 
