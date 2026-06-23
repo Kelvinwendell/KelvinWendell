@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- SHADOW MONARCH HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:4b0082&height=200&section=header&text=KELVIN%20WENDELL%20BARBOZA%20DA%20SILVA&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20JAVA%20%7C%20FullStack&descAlignY=58&descSize=16&descColor=a855f7"/>
 
 </div>
 
-<!-- OLHOS DO JIN-WOO — banner animado de olhos azuis vibrando -->
+<!-- OLHOS DO JIN-WOO — banner de olhos azuis vibrando -->
 <div align="center">
-  <img src="https://media.tenor.com/PdkzJNSWdmYAAAAd/sung-jin-woo-eyes-banner-aura.gif" width="100%" alt="Jin-Woo Blue Eyes"/>
+  <img src="./assets/jinwoo-eyes.gif" width="100%" alt="Jin-Woo Blue Eyes"/>
 </div>
 
 <div align="center">
 
-<!-- ANIMATED SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+FIAP;%E2%9A%94%EF%B8%8F+Arise...+Um+novo+Hunter+desperta;%F0%9F%93%9A+Evoluindo+habilidades+a+cada+projeto;%F0%9F%92%9C+FIAP+%7C+S%C3%A3o+Paulo%2C+Brasil" alt="Typing SVG" />
 
 </div>
@@ -26,7 +24,7 @@
 ## ⚔️ PLAYER INFO — Sobre Mim
 
 <div align="center">
-  <img src="https://media.tenor.com/8Xq_OLkFhKUAAAAd/sung-jin-woo-solo-leveling-shadow-monarch.gif" width="420" alt="Jin-Woo Shadow Monarch"/>
+  <img src="./assets/jinwoo-monarch.gif" width="460" alt="Jin-Woo Shadow Monarch"/>
 </div>
 
 <br/>
@@ -78,7 +76,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 ## 🌟 HABILIDADES — Skills & Stacks
 
 <div align="center">
-  <img src="https://media.tenor.com/bHpREWg-d7QAAAAd/sung-jin-woo-summon-arise-shadow-orcs-shadow-army.gif" width="560" alt="Jin-Woo Arise — Shadow Army"/>
+  <img src="./assets/shadow-army.gif" width="560" alt="Shadow Army — Arise!"/>
   <br/>
   <sub>⚔️ <i>Arise — as sombras respondem ao chamado do Monarca</i></sub>
 </div>
@@ -181,9 +179,9 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 <div align="center">
 
-<img src="https://media.tenor.com/FWQqS2PpJ2IAAAAd/sung-jin-woo-solo-leveling-aura-murderous-eyes.gif" width="500" alt="Jin-Woo Glowing Blue Eyes"/>
+<img src="./assets/jinwoo-aura.gif" width="500" alt="Jin-Woo Aura"/>
 <br/>
-<sub>🩸 <i>O olhar do Shadow Monarch não mente — as stats falam por si</i></sub>
+<sub>🩸 <i>O olhar do Shadow Monarch — as stats falam por si</i></sub>
 
 <br/><br/>
 
@@ -200,9 +198,6 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 ---
 
 <div align="center">
-
-<img src="https://media.tenor.com/bT8c-NxFBooAAAAd/sung-jin-woo-solo-leveling-sung-jin-woo.gif" width="400" alt="Jin-Woo Shadow Army final"/>
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1a0533,100:0a0a0f&height=120&section=footer&text=I+alone+level+up...&fontSize=22&fontColor=c084fc&animation=fadeIn&fontAlignY=65"/>
 
