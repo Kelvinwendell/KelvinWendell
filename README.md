@@ -10,16 +10,13 @@
 
 ---
 
-<!-- SHADOW DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" /> ⬛ PLAYER INFO — Sobre Mim
+## ⚔️ PLAYER INFO — Sobre Mim
 
-<img align="right" alt="Shadow Monarch GIF" width="300" src="https://i.pinimg.com/originals/91/2f/9e/912f9eb8928ae7e71e8db6e0e5a2ee0f.gif"/>
+<img align="right" alt="Solo Leveling" width="280" src="https://media.tenor.com/images/4a0c84f78a52fd65e2f4ef37c2b4c253/tenor.gif"/>
 
 ```
 ╔══════════════════════════════════════╗
@@ -29,7 +26,7 @@
 ║  ROLE   : Backend Dev / FullStack    ║
 ║  CLASS  : Java Hunter                ║
 ║  GUILD  : FIAP Academy               ║
-║  STATUS : ▓▓▓▓▓▓▓▓▓░ 90% [HUNTING]  ║
+║  STATUS : [██████████] 90% HUNTING   ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -47,32 +44,33 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30"/> ⬛ PORTAL DE CONTATO
+## 📬 PORTAL DE CONTATO
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-kelvinwendell.barboza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)](mailto:kelvinwendell.barboza@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Wendell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/?skipRedirect=true)
+<a href="mailto:kelvinwendell.barboza@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Wendell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-<!-- SHADOW DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/> ⬛ HABILIDADES — Skills & Stacks
+## 🌟 HABILIDADES — Skills & Stacks
 
 > *"Cada skill dominada é uma shadow soldier a seu serviço."*
 
 ---
 
-### <img src="https://img.icons8.com/fluency/30/server.png"/> ⚔️ BACK-END — Rank S Skills
+### ⚔️ BACK-END — Rank S Skills
 
 <div align="center">
 
@@ -84,19 +82,16 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 </div>
 
-```
-╔════════════════════════════════════════════════╗
-║   ⚔️  BACK-END SKILLS                          ║
-║   Java         ████████████████████░   99%     ║
-║   Spring Boot  ██████████████████░░░   90%     ║
-║   Python       ███████████████░░░░░░   75%     ║
-║   .NET / C#    ████████████░░░░░░░░░   60%     ║
-╚════════════════════════════════════════════════╝
-```
+| Skill | Nível | Progresso |
+|-------|-------|-----------|
+| ☕ Java | Rank S | `██████████████████░░` 90% |
+| 🌱 Spring Boot | Rank S | `█████████████████░░░` 85% |
+| 🐍 Python | Rank A | `███████████████░░░░░` 75% |
+| 💜 .NET / C# | Rank B | `████████████░░░░░░░░` 60% |
 
 ---
 
-### <img src="https://img.icons8.com/fluency/30/monitor.png"/> 🌐 FRONT-END — Rank A Skills
+### 🌐 FRONT-END — Rank A Skills
 
 <div align="center">
 
@@ -107,19 +102,16 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 </div>
 
-```
-╔════════════════════════════════════════════════╗
-║   🌐  FRONT-END SKILLS                         ║
-║   JavaScript   ████████████████████░   95%     ║
-║   TypeScript   ██████████████████░░░   88%     ║
-║   React        ████████████████░░░░░   80%     ║
-║   Next.js      ██████████████░░░░░░░   70%     ║
-╚════════════════════════════════════════════════╝
-```
+| Skill | Nível | Progresso |
+|-------|-------|-----------|
+| 🟡 JavaScript | Rank S | `████████████████████` 95% |
+| 🔵 TypeScript | Rank A | `██████████████████░░` 88% |
+| ⚛️ React | Rank A | `████████████████░░░░` 80% |
+| ▲ Next.js | Rank B | `██████████████░░░░░░` 70% |
 
 ---
 
-### <img src="https://img.icons8.com/fluency/30/database.png"/> 🗄️ BANCO DE DADOS — Rank A Skills
+### 🗄️ BANCO DE DADOS — Rank A Skills
 
 <div align="center">
 
@@ -130,19 +122,16 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 </div>
 
-```
-╔════════════════════════════════════════════════╗
-║   🗄️  DATABASE SKILLS                          ║
-║   PostgreSQL   ████████████████████░   95%     ║
-║   MySQL        ████████████████████░   95%     ║
-║   Oracle       ███████████████░░░░░░   75%     ║
-║   MongoDB      ██████████████░░░░░░░   70%     ║
-╚════════════════════════════════════════════════╝
-```
+| Skill | Nível | Progresso |
+|-------|-------|-----------|
+| 🐘 PostgreSQL | Rank S | `████████████████████` 95% |
+| 🐬 MySQL | Rank S | `████████████████████` 95% |
+| 🔴 Oracle | Rank A | `███████████████░░░░░` 75% |
+| 🍃 MongoDB | Rank A | `██████████████░░░░░░` 70% |
 
 ---
 
-### <img src="https://img.icons8.com/fluency/30/cloud.png"/> 🛠️ INFRA & DEPLOY — Tools & DevOps
+### 🛠️ INFRA & DEPLOY — Tools & DevOps
 
 <div align="center">
 
@@ -150,44 +139,38 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1DB954?style=for-the-badge&logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-```
-╔════════════════════════════════════════════════╗
-║   🛠️  TOOLS & INFRA                            ║
-║   Docker         █████████████████░░░░   85%  ║
-║   GitHub Actions ████████████████░░░░░   80%  ║
-║   Grafana        ██████████████░░░░░░░   70%  ║
-║   Jira           ████████████████░░░░░   80%  ║
-║   ServiceNow     ████████████░░░░░░░░░   60%  ║
-╚════════════════════════════════════════════════╝
-```
+| Skill | Nível | Progresso |
+|-------|-------|-----------|
+| 🐳 Docker | Rank A | `█████████████████░░░` 85% |
+| ⚙️ GitHub Actions | Rank A | `████████████████░░░░` 80% |
+| 📋 Jira | Rank A | `████████████████░░░░` 80% |
+| 📊 Grafana | Rank B | `██████████████░░░░░░` 70% |
+| 🔧 ServiceNow | Rank B | `████████████░░░░░░░░` 60% |
 
 ---
 
-<!-- SHADOW DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
-## 📊 ⬛ SHADOW STATS — GitHub Stats
+## 📊 SHADOW STATS — GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinwendell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinWendell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&hide=contribs"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinwendell&layout=compact&langs_count=8&theme=midnight-purple&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&text_color=e9d5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinWendell&layout=compact&langs_count=8&theme=midnight-purple&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&text_color=e9d5ff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kelvinwendell&theme=midnight-purple&border=4b0082&background=0a0a0f&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff)
+<img src="https://streak-stats.demolab.com?user=KelvinWendell&theme=midnight-purple&border=4b0082&background=0a0a0f&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&hide_border=false"/>
 
 </div>
 
