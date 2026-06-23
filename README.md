@@ -16,7 +16,8 @@
 
 ## ⚔️ PLAYER INFO — Sobre Mim
 
-<img align="right" alt="Solo Leveling" width="280" src="https://media.tenor.com/images/4a0c84f78a52fd65e2f4ef37c2b4c253/tenor.gif"/>
+<img align="right" alt="Jin-Woo Shadow Monarch" width="260"
+  src="https://media3.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif"/>
 
 ```
 ╔══════════════════════════════════════╗
@@ -65,6 +66,14 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 ---
 
 ## 🌟 HABILIDADES — Skills & Stacks
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/zFZ04On7OcQDMxcojL/giphy.gif" width="480" alt="Jin-Woo e Igris"/>
+  <br/>
+  <sub>⚔️ <i>Jin-Woo e Igris — as sombras obedecem ao seu mestre</i></sub>
+</div>
+
+<br/>
 
 > *"Cada skill dominada é uma shadow soldier a seu serviço."*
 
@@ -162,15 +171,18 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver p
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinWendell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&hide=contribs"/>
+<img align="left" src="https://media2.giphy.com/media/OBvRyrYQ1xUEqMPc3X/giphy.gif" width="180" alt="Beru Shadow"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinWendell&layout=compact&langs_count=8&theme=midnight-purple&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&text_color=e9d5ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KelvinWendell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff"/>
 
-</div>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinWendell&layout=compact&langs_count=8&theme=midnight-purple&border_color=4b0082&bg_color=0a0a0f&title_color=c084fc&text_color=e9d5ff"/>
 
-<div align="center">
+<br clear="both"/>
 
-<img src="https://streak-stats.demolab.com?user=KelvinWendell&theme=midnight-purple&border=4b0082&background=0a0a0f&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=KelvinWendell&theme=midnight-purple&border=4b0082&background=0a0a0f&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff"/>
+
+<br/>
+<sub>🩸 <i>Beru — o mais poderoso soldado das sombras</i></sub>
 
 </div>
 
