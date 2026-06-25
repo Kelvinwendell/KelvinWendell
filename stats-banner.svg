@@ -1,0 +1,76 @@
+<svg viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+  <defs>
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#030008"/>
+      <stop offset="50%" stop-color="#0d0020"/>
+      <stop offset="100%" stop-color="#030008"/>
+    </linearGradient>
+    <filter id="glowStat">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="700" height="120" fill="url(#statsBg)" rx="4"/>
+
+  <!-- Grid -->
+  <g stroke="#1a0044" stroke-width="0.4" opacity="0.5">
+    <line x1="0" y1="30" x2="700" y2="30"/>
+    <line x1="0" y1="60" x2="700" y2="60"/>
+    <line x1="0" y1="90" x2="700" y2="90"/>
+    <line x1="175" y1="0" x2="175" y2="120"/>
+    <line x1="350" y1="0" x2="350" y2="120"/>
+    <line x1="525" y1="0" x2="525" y2="120"/>
+  </g>
+
+  <!-- Left: System alert icon -->
+  <polygon points="60,20 100,90 20,90" fill="none" stroke="#6600ff" stroke-width="2" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2s" repeatCount="indefinite"/>
+  </polygon>
+  <text x="60" y="68" text-anchor="middle" font-family="monospace" font-size="28" fill="#8844ff" opacity="0.5">!</text>
+
+  <!-- SHADOW STATS title -->
+  <text x="350" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#7733ff" letter-spacing="6" font-weight="bold">
+    ⚔  SHADOW STATS  ⚔
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Stats bars -->
+  <!-- EXP bar -->
+  <text x="70" y="52" font-family="'Courier New',monospace" font-size="10" fill="#9955ff">EXP</text>
+  <rect x="105" y="43" width="520" height="8" fill="#110033" rx="4"/>
+  <rect x="105" y="43" width="468" height="8" fill="#5522cc" rx="4">
+    <animate attributeName="width" values="0;468" dur="2s" begin="0s" fill="freeze"/>
+  </rect>
+  <text x="632" y="52" font-family="'Courier New',monospace" font-size="9" fill="#7744ee">90%</text>
+
+  <!-- HP bar -->
+  <text x="70" y="72" font-family="'Courier New',monospace" font-size="10" fill="#4499ff">HP</text>
+  <rect x="105" y="63" width="520" height="8" fill="#001133" rx="4"/>
+  <rect x="105" y="63" width="494" height="8" fill="#0055cc" rx="4">
+    <animate attributeName="width" values="0;494" dur="2.2s" begin="0.3s" fill="freeze"/>
+  </rect>
+  <text x="632" y="72" font-family="'Courier New',monospace" font-size="9" fill="#3388ff">95%</text>
+
+  <!-- SP bar -->
+  <text x="70" y="92" font-family="'Courier New',monospace" font-size="10" fill="#cc44ff">SP</text>
+  <rect x="105" y="83" width="520" height="8" fill="#1a0033" rx="4"/>
+  <rect x="105" y="83" width="442" height="8" fill="#aa00cc" rx="4">
+    <animate attributeName="width" values="0;442" dur="2.4s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="632" y="92" font-family="'Courier New',monospace" font-size="9" fill="#cc55ff">85%</text>
+
+  <!-- Scanning line -->
+  <rect x="0" y="0" width="700" height="2" fill="#6633ff" opacity="0.2">
+    <animate attributeName="y" values="0;120;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="698" height="118" rx="3" fill="none" stroke="#3300aa" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M1,1 L20,1 L20,3 L3,3 L3,20 L1,20 Z" fill="#6600ff"/>
+  <path d="M699,1 L680,1 L680,3 L697,3 L697,20 L699,20 Z" fill="#6600ff"/>
+  <path d="M1,119 L20,119 L20,117 L3,117 L3,100 L1,100 Z" fill="#6600ff"/>
+  <path d="M699,119 L680,119 L680,117 L697,117 L697,100 L699,100 Z" fill="#6600ff"/>
+</svg>
