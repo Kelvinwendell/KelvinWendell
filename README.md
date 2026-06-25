@@ -24,7 +24,7 @@
 ## ⚔️ `[ PLAYER INFO ]` — Sobre Mim · About Me
 
 <div align="center">
-  <img src="./assets/system-window.svg" width="480" alt="Jin-Woo Shadow Monarch System Window"/>
+  <img src="./system-window.svg" width="480" alt="Jin-Woo Shadow Monarch System Window"/>
 </div>
 
 <br/>
