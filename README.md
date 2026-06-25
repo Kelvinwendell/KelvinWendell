@@ -6,7 +6,7 @@
 
 <!-- JIN-WOO EYES BANNER — SVG animado hospedado no próprio repo -->
 <div align="center">
-  <img src="./assets" width="100%" alt="Jin-Woo Blue Eyes"/>
+  <img src="./jinwoo-eyes.svg" width="100%" alt="Jin-Woo Blue Eyes"/>
 </div>
 
 <br/>
@@ -98,7 +98,7 @@ I'm quick to learn new technologies, comfortable working in teams, and efficient
 ## 🌟 `[ HABILIDADES ]` — Skills & Stacks
 
 <div align="center">
-  <img src="./assets" width="680" alt="Shadow Army — Arise!"/>
+  <img src="./shadow-arise.svg" width="680" alt="Shadow Army — Arise!"/>
   <br/>
   <sub>⚔️ <em>ARISE — cada skill dominada é um shadow soldier a seu serviço</em></sub>
 </div>
@@ -198,7 +198,7 @@ I'm quick to learn new technologies, comfortable working in teams, and efficient
 ## 📊 `[ SHADOW STATS ]` — GitHub
 
 <div align="center">
-  <img src="./assets" width="680" alt="Shadow Stats Banner"/>
+  <img src="./stats-banner.svg" width="680" alt="Shadow Stats Banner"/>
 </div>
 
 <br/>
