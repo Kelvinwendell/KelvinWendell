@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-labelledby="title desc">
+<title id="title">Backend Java, desenvolvimento full stack e Android</title>
+<desc id="desc">Backend com Java e Spring Boot; Full Stack com React, Next.js e TypeScript; Android com Kotlin e Jetpack Compose.</desc>
+<style>
+text{font-family:Consolas,'Courier New',monospace;font-size:23px;fill:#4493f8}
+.line{opacity:0;animation:show 18s infinite}.second{animation-delay:6s}.third{animation-delay:12s}
+.cursor{animation:blink 1.2s steps(1) infinite}
+@keyframes show{0%,30%{opacity:1}33%,100%{opacity:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes type{0%{width:0}22%,95%{width:850px}100%{width:0}}
+.reveal{animation:type 6s steps(45,end) infinite}.fallback{display:none}
+@media(prefers-reduced-motion:reduce){.line,.cursor{animation:none;opacity:0}.fallback{display:inline}.reveal{animation:none;width:850px}}
+</style>
+<defs><clipPath id="typing"><rect class="reveal" x="25" y="0" width="850" height="64"/></clipPath></defs>
+<g clip-path="url(#typing)">
+<text class="line" x="35" y="40">Backend · Java &amp; Spring Boot<tspan class="cursor">_</tspan></text>
+<text class="line second" x="35" y="40">Full Stack · React, Next.js &amp; TypeScript<tspan class="cursor">_</tspan></text>
+<text class="line third" x="35" y="40">Android · Kotlin &amp; Jetpack Compose<tspan class="cursor">_</tspan></text>
+</g>
+<text class="fallback" x="35" y="40">Backend · Full Stack · Android</text>
+</svg>

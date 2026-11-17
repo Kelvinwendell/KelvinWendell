@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+<title id="title">Construir, proteger e verificar</title>
+<desc id="desc">Construir APIs e aplicações; proteger autenticação e acesso; verificar com testes e integração contínua.</desc>
+<rect x="1" y="1" width="1098" height="188" rx="10" fill="#10233f" stroke="#284c73"/>
+<g stroke="#284c73"><path d="M367 35V155M733 35V155"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<g fill="#8dc0ff" font-size="13" letter-spacing="2"><text x="32" y="43">01 / BUILD</text><text x="399" y="43">02 / SECURE</text><text x="765" y="43">03 / VERIFY</text></g>
+<g fill="#fff" font-size="25" font-weight="600"><text x="32" y="84">Construir</text><text x="399" y="84">Proteger</text><text x="765" y="84">Verificar</text></g>
+<g fill="#c3d7ee" font-size="17"><text x="32" y="121">APIs e aplicações</text><text x="32" y="148">Regras de negócio</text><text x="399" y="121">Autenticação e acesso</text><text x="399" y="148">Permissões por perfil</text><text x="765" y="121">Testes automatizados</text><text x="765" y="148">Integração contínua</text></g>
+</g></svg>
