@@ -45,12 +45,12 @@ In my projects, I aim to make engineering choices explicit: role-based authoriza
 Meu foco principal está no backend. Os grupos abaixo organizam as tecnologias e ferramentas do meu repertório por finalidade; os projetos mostram onde algumas delas são aplicadas.
 
 <p align="center">
-  <img src="./assets/stack-backend.svg" width="330" alt="Backend e linguagens: Java, Spring Boot, Go (Golang), Python, C# e .NET"/>
-  <img src="./assets/stack-web.svg" width="330" alt="Interfaces web: TypeScript, JavaScript, React, Next.js, HTML e CSS"/>
-  <img src="./assets/stack-mobile.svg" width="330" alt="Android e mobile: Kotlin, Jetpack Compose, Android, MVVM e Retrofit"/>
-  <img src="./assets/stack-data.svg" width="330" alt="Dados e persistência: PostgreSQL, MySQL, Oracle, MongoDB, JPA/Hibernate e Flyway"/>
-  <img src="./assets/stack-quality.svg" width="330" alt="Qualidade e segurança: JUnit, Testcontainers, Robolectric, Spring Security, JWT e BCrypt"/>
-  <img src="./assets/stack-delivery.svg" width="330" alt="Entrega e operação: Docker, GitHub Actions, Git, Grafana, Jira e ServiceNow"/>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-backend-mobile.svg"/><img src="./assets/stack-backend.svg" width="330" alt="Backend e linguagens: Java, Spring Boot, Go (Golang), Python, C# e .NET"/></picture>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-web-mobile.svg"/><img src="./assets/stack-web.svg" width="330" alt="Interfaces web: TypeScript, JavaScript, React, Next.js, HTML e CSS"/></picture>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-mobile-mobile.svg"/><img src="./assets/stack-mobile.svg" width="330" alt="Android e mobile: Kotlin, Jetpack Compose, Android, MVVM e Retrofit"/></picture>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-data-mobile.svg"/><img src="./assets/stack-data.svg" width="330" alt="Dados e persistência: PostgreSQL, MySQL, Oracle, MongoDB, JPA/Hibernate e Flyway"/></picture>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-quality-mobile.svg"/><img src="./assets/stack-quality.svg" width="330" alt="Qualidade e segurança: JUnit, Testcontainers, Robolectric, Spring Security, JWT e BCrypt"/></picture>
+  <picture><source media="(max-width: 600px)" srcset="./assets/stack-delivery-mobile.svg"/><img src="./assets/stack-delivery.svg" width="330" alt="Entrega e operação: Docker, GitHub Actions, Git, Grafana, Jira e ServiceNow"/></picture>
 </p>
 
 <details>
@@ -153,4 +153,5 @@ Arquitetura e manutenção de serviços, segurança de aplicações, observabili
   &nbsp;·&nbsp;
   <a href="mailto:kelvinwendell.barboza@gmail.com"><b>Vamos conversar por e-mail ↗</b></a>
 </p>
+
 
