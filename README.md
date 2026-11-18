@@ -1,156 +1,156 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg"/>
+  <img src="./assets/hero-desktop.svg" width="100%" alt="Kelvin Wendell — Engenheiro de Software Júnior. Backend, full stack, mobile e IA aplicada. Código com propósito, soluções conectadas ao negócio."/>
+</picture>
 
-<img src="./assets/banner.svg" width="100%" alt="Kelvin Wendell — Engenheiro de Software Júnior. Java, Spring Boot, APIs, segurança e confiabilidade."/>
-<img src="./assets/typing.svg" width="100%" alt="Backend com Java e Spring Boot · Full Stack com React, Next.js e TypeScript · Android com Kotlin e Jetpack Compose"/>
-
-<a href="https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kelvinwendell.barboza@gmail.com"><img src="https://img.shields.io/badge/E--mail-194A78?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail"/></a>
-<img src="https://img.shields.io/badge/ADS-FIAP-10233F?style=for-the-badge" alt="Estudante de ADS na FIAP"/>
-<img src="https://img.shields.io/badge/S%C3%A3o_Paulo-Brasil-194A78?style=for-the-badge" alt="São Paulo, Brasil"/>
-
-</div>
+<p align="center">
+  <a href="#sobre-mim">Sobre</a> &nbsp;·&nbsp;
+  <a href="#ecossistema-técnico">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#projetos-selecionados">Projetos</a> &nbsp;·&nbsp;
+  <a href="#formação-e-evolução">Formação</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/">LinkedIn ↗</a>
+</p>
 
 ## Sobre mim
 
-Sou **engenheiro de software júnior** e estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Atuo no desenvolvimento e aprimoramento de soluções administrativas, com atenção à estabilidade, à segurança e à experiência de quem utiliza os sistemas.
+Sou **Kelvin Wendell, engenheiro de software júnior na Aceleraí** e estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Meu interesse pela engenharia está na conexão entre o problema de negócio e as decisões que tornam uma solução útil: como organizar o domínio, conectar serviços, proteger o acesso e manter o sistema compreensível para quem vai evoluí-lo depois.
 
-Meu foco técnico está no **backend com Java e Spring Boot**. Também tenho conhecimentos em desenvolvimento full stack e construo aplicações Android com Kotlin, conectando interfaces, APIs e dados às regras de negócio.
+No trabalho, contribuo para o desenvolvimento e aprimoramento de soluções administrativas. Essa experiência tem ampliado meu olhar para **estabilidade, eficiência e experiência de uso**, além da implementação de funcionalidades. Procuro entender quem utiliza o sistema, quais regras precisam ser respeitadas e como uma alteração se comporta no restante da aplicação.
 
-- **Backend:** desenvolvimento e consumo de APIs REST, orientação a objetos e integração com bancos de dados.
-- **Full stack e mobile:** conhecimentos em React, Next.js e TypeScript, além de Kotlin e Jetpack Compose.
-- **Qualidade e segurança:** testes automatizados, autenticação JWT e autorização por perfil nos meus projetos.
-- **IA aplicada:** integração de modelos generativos para apoiar análises, com decisão humana e alternativa por regras.
+Minha principal base de desenvolvimento é **Java e Spring Boot**, com construção e consumo de APIs REST, persistência e segurança. Também exploro o desenvolvimento full stack com **TypeScript, React e Next.js**, aplicações Android com **Kotlin e Jetpack Compose**, e amplio meu repertório com **Go, Python e C#/.NET**.
+
+Nos projetos, gosto de tornar as escolhas técnicas verificáveis. No **Águia Inova**, isso aparece no controle de acesso por perfil, nos testes com banco real e na integração de IA com alternativas por regras para os fluxos que suportam essa opção. Na **API de Mobilidade Sustentável**, aparece na modelagem relacional, nas validações e no versionamento do banco com Flyway.
+
+### Como penso e trabalho
+
+- **Contexto antes da implementação.** Entender usuários, regras e restrições para escolher uma solução proporcional ao problema.
+- **Responsabilidades claras.** Separar domínio, integração e interface para facilitar manutenção e evolução.
+- **Qualidade ao longo da entrega.** Verificar regras de negócio, contratos e permissões, além do caminho em que tudo funciona.
+- **IA com critério.** Usar modelos como apoio à análise e ao desenvolvimento, revisando suas saídas e preservando a decisão humana.
+- **Aprendizado compartilhado.** Discutir alternativas, investigar falhas e transformar a troca com a equipe em melhoria contínua.
 
 <details>
-<summary><b>About me · English</b></summary>
+<summary><b>Read in English</b></summary>
 
-I'm a junior software engineer and a Systems Analysis and Development student at FIAP. I contribute to administrative software, focusing on stability, security and user experience.
+I'm Kelvin Wendell, a junior software engineer at Aceleraí and a Systems Analysis and Development student at FIAP. I contribute to administrative software and care about how business rules, security, stability and usability come together in a product.
 
-My main technical focus is Java and Spring Boot backend development. I also have knowledge of React, Next.js and TypeScript, and build Android applications with Kotlin and Jetpack Compose. My projects explore automated testing, authentication, role-based authorization and practical AI integrations.
+My main development foundation is Java and Spring Boot. I also explore full stack development with TypeScript, React and Next.js, Android with Kotlin and Jetpack Compose, and broaden my toolkit with Go, Python and C#/.NET.
+
+In my projects, I aim to make engineering choices explicit: role-based authorization, integration tests with a real database, versioned database migrations and AI integrations that keep people in control. I value clear responsibilities, collaboration and continuous learning.
+
+</details>
+
+## Ecossistema técnico
+
+Meu foco principal está no backend. Os grupos abaixo organizam as tecnologias e ferramentas do meu repertório por finalidade; os projetos mostram onde algumas delas são aplicadas.
+
+<p align="center">
+  <img src="./assets/stack-backend.svg" width="330" alt="Backend e linguagens: Java, Spring Boot, Go (Golang), Python, C# e .NET"/>
+  <img src="./assets/stack-web.svg" width="330" alt="Interfaces web: TypeScript, JavaScript, React, Next.js, HTML e CSS"/>
+  <img src="./assets/stack-mobile.svg" width="330" alt="Android e mobile: Kotlin, Jetpack Compose, Android, MVVM e Retrofit"/>
+  <img src="./assets/stack-data.svg" width="330" alt="Dados e persistência: PostgreSQL, MySQL, Oracle, MongoDB, JPA/Hibernate e Flyway"/>
+  <img src="./assets/stack-quality.svg" width="330" alt="Qualidade e segurança: JUnit, Testcontainers, Robolectric, Spring Security, JWT e BCrypt"/>
+  <img src="./assets/stack-delivery.svg" width="330" alt="Entrega e operação: Docker, GitHub Actions, Git, Grafana, Jira e ServiceNow"/>
+</p>
+
+<details>
+<summary><b>Consultar todas as tecnologias em texto</b></summary>
+
+- **Backend e linguagens:** Java, Spring Boot, Go (Golang), Python, C# e .NET.
+- **Interfaces web:** TypeScript, JavaScript, React, Next.js, HTML e CSS.
+- **Android e mobile:** Kotlin, Jetpack Compose, Android, MVVM e Retrofit.
+- **Dados e persistência:** PostgreSQL, MySQL, Oracle, MongoDB, JPA/Hibernate e Flyway.
+- **Qualidade e segurança:** JUnit, Testcontainers, Robolectric, Spring Security, JWT e BCrypt.
+- **Entrega e operação:** Docker, GitHub Actions, Git, Grafana, Jira e ServiceNow.
+
+</details>
+
+## Projetos selecionados
+
+### Águia Inova
+
+[![Backend CI](https://github.com/Kelvinwendell/App-guia/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/Kelvinwendell/App-guia/actions/workflows/backend-ci.yml)
+
+**Gestão da inovação empresarial · Backend + Android + IA aplicada**
+
+Como transformar sugestões de colaboradores em iniciativas que uma organização consegue avaliar e acompanhar? O Águia Inova organiza esse percurso: colaboradores registram ideias, gestores avaliam propostas e conduzem projetos, e a liderança acompanha estratégias e resultados em um dashboard.
+
+O projeto integra uma **API Java/Spring Boot com MongoDB** e um **aplicativo Android em Kotlin/Jetpack Compose**. A IA apoia priorização, análises e elaboração de propostas, mantendo gestores e liderança como responsáveis pelas decisões.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kelvinwendell/App-guia/HEAD/entregas/redesign/RD-010/capturas/painel-kpis-100.png" width="210" alt="Tela real do Águia Inova: dashboard de resultados com indicadores de demonstração"/>
+  <img src="https://raw.githubusercontent.com/Kelvinwendell/App-guia/HEAD/entregas/redesign/RD-010/capturas/estrategias-vigentes-100.png" width="210" alt="Tela real do Águia Inova: listagem e acompanhamento de estratégias"/>
+</p>
+
+<p align="center"><sub>Capturas do aplicativo · Dados de demonstração</sub></p>
+
+**Decisões que sustentam a solução**
+
+- **Autorização no servidor:** permissões por perfil e verificações de propriedade dos recursos, além da apresentação de opções na interface.
+- **Continuidade nos fluxos compatíveis:** avaliações e insights podem recorrer a regras quando o modelo de IA está indisponível; recursos que exigem o modelo sinalizam sua indisponibilidade.
+- **Verificação de integração:** JUnit e Testcontainers no backend, com MongoDB real; testes mobile com Robolectric e contratos com a API.
+- **Separação de responsabilidades:** MVVM e Repository no aplicativo, Retrofit na comunicação e interfaces nas integrações de IA.
+- **Entrega reproduzível:** Docker, build multiestágio, healthcheck e integração contínua.
+
+`Java` `Spring Boot` `MongoDB` `Kotlin` `Jetpack Compose` `Spring Security` `Docker`
+
+**[Explorar o código ↗](https://github.com/Kelvinwendell/App-guia)** &nbsp;·&nbsp; [Arquitetura](https://github.com/Kelvinwendell/App-guia/blob/HEAD/docs/ARQUITETURA.md) &nbsp;·&nbsp; [Contrato da API](https://github.com/Kelvinwendell/App-guia/blob/HEAD/docs/API.md)
+
+<details>
+<summary><b>Aprofundar: segurança, integração e IA</b></summary>
+
+O projeto documenta autenticação JWT, senhas com BCrypt, limitação de requisições em pontos sensíveis e validação das saídas dos modelos. No Android, a sessão utiliza armazenamento criptografado e respostas 401 provocam a desconexão do usuário.
+
+As integrações utilizam abstrações para permitir diferentes provedores de IA. Strategy e Adapter ajudam a separar regras, serviços e clientes externos; Decorator, Template Method e Null Object também aparecem na implementação.
+
+A documentação registra como o app e a API se conectam, as decisões de arquitetura e o trabalho de preparação para produção.
 
 </details>
 
 ---
 
-## Tecnologias e ferramentas
+### Mobilidade Sustentável API
 
-### Backend
+**Serviços REST · Persistência relacional · Evolução de schema**
 
-![Go (Golang)](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+API para registrar empresas, usuários, meios de transporte e deslocamentos sustentáveis, relacionando essas informações a recompensas e resgates.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+O foco técnico está na **modelagem de dados com JPA/Hibernate e Oracle**, na validação das entradas e na organização dos endpoints. As mudanças no schema são versionadas com **Flyway**, e o ambiente de banco utiliza **Docker Compose**.
 
-### Frontend
+- Endpoints REST para os recursos do domínio.
+- Validação com Bean Validation.
+- Spring Security com Basic Auth nas operações de escrita.
+- Migrações de banco e carga inicial de dados para desenvolvimento.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
+`Java` `Spring Boot` `JPA / Hibernate` `Oracle` `Flyway` `Docker Compose`
 
-### Mobile
+**[Explorar o código ↗](https://github.com/Kelvinwendell/Microservicos)**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111827)
+## Formação e evolução
 
-### Bancos de dados
+**Análise e Desenvolvimento de Sistemas · FIAP**  
+Graduação em andamento, conectando fundamentos de programação, desenvolvimento de aplicações e projetos práticos.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Java · FIAP**  
+Formação complementar para fortalecer a base da linguagem e a aplicação de orientação a objetos.
 
-### Entrega, observabilidade e colaboração
+**Java e fundamentos da web · Alura**  
+Estudos em orientação a objetos, coleções, consumo de APIs, HTTP, redes e protocolos.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-176D50?style=for-the-badge)
+### O que sigo aprofundando
 
-### Qualidade e segurança
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-194A78?style=for-the-badge&logo=testcontainers&logoColor=white)
-![Robolectric](https://img.shields.io/badge/Robolectric-10233F?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-171717?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+Arquitetura e manutenção de serviços, segurança de aplicações, observabilidade e confiabilidade. Também tenho interesse em agentes de IA, sistemas multiagente e formas de aplicar IA a problemas de negócio com validação e controle humano.
 
 ---
 
-## Engenharia na prática
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/contact-mobile.svg"/>
+  <img src="./assets/footer.svg" width="100%" alt="Vamos construir algo que faça sentido. Tecnologia, colaboração e aprendizado contínuo."/>
+</picture>
 
-<img src="./assets/engineering.svg" width="100%" alt="Construir: APIs e aplicações com regras de negócio. Proteger: autenticação, acesso e permissões por perfil. Verificar: testes automatizados e integração contínua."/>
-
-Nos projetos, procuro entender o problema antes de implementar, separar responsabilidades e testar os fluxos que sustentam a aplicação. A tecnologia entra para atender à necessidade do produto.
-
-## Projeto em destaque
-
-### Águia Inova · Gestão da inovação empresarial
-
-Plataforma acadêmica que conecta **ideias de colaboradores**, **avaliação de gestores** e **acompanhamento de iniciativas pela liderança**.
-
-> Colaborador → Ideia → Avaliação → Projeto → Acompanhamento
-
-| Camada | Implementação |
-|---|---|
-| Backend | Java, Spring Boot e Spring Data MongoDB |
-| Aplicativo | Kotlin, Jetpack Compose, MVVM, Repository e Retrofit |
-| Segurança | Spring Security, JWT, BCrypt e autorização por perfil no servidor |
-| Qualidade | JUnit, Testcontainers e Robolectric |
-| Execução | Docker com build multiestágio, healthcheck e usuário sem privilégios de root |
-| IA aplicada | Apoio à avaliação de ideias e geração de insights, com alternativa por regras |
-
-**Decisões técnicas em destaque**
-
-- **Continuidade do fluxo:** se o provedor de IA estiver indisponível, a avaliação segue por regras.
-- **Controle de acesso:** permissões aplicadas na API conforme o perfil do usuário.
-- **Testes com banco real:** integração com MongoDB por meio de Testcontainers.
-- **Integrações organizadas:** interfaces e padrões como Strategy e Adapter para trabalhar com diferentes provedores de IA.
-
-<details>
-<summary><b>Mais sobre arquitetura e implementação</b></summary>
-
-- Orientação a objetos com encapsulamento, herança, polimorfismo e abstração.
-- Entidades com comportamento e responsabilidades definidas.
-- Padrões Decorator, Template Method e Null Object nas integrações.
-- Separação entre interface, acesso a dados e regras de negócio no aplicativo Android.
-- IA como apoio à análise, mantendo a decisão com o usuário.
-
-</details>
-
----
-
-## Formação e aprendizado contínuo
-
-| Formação | Instituição |
-|---|---|
-| Análise e Desenvolvimento de Sistemas — em andamento | FIAP |
-| Java | FIAP |
-| Orientação a objetos, coleções e consumo de APIs com Java | Alura |
-| HTTP, redes e protocolos web | Alura |
-
-<details>
-<summary><b>Áreas de interesse e desenvolvimento</b></summary>
-
-Backend, arquitetura de software, segurança de aplicações, observabilidade, confiabilidade e inteligência artificial aplicada ao negócio.
-
-</details>
-
----
-
-<div align="center">
-
-**Entender o problema. Construir com cuidado. Evoluir com evidências.**
-
-Vamos conversar sobre desenvolvimento de software?
-
-[LinkedIn](https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/) · [kelvinwendell.barboza@gmail.com](mailto:kelvinwendell.barboza@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kelvin-wendell-barboza-da-silva-4765a8216/"><b>LinkedIn ↗</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kelvinwendell.barboza@gmail.com"><b>Vamos conversar por e-mail ↗</b></a>
+</p>
 
